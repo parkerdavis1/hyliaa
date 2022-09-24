@@ -5,6 +5,7 @@ tags:
 - demo-content
 - simple-post
 - blog
+image: "/images/screen-shot-2022-09-18-at-1-55-41-pm.png"
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
@@ -18,9 +19,9 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
@@ -28,5 +29,6 @@ How about an ordered list of stuff:
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
 
-
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+![](/images/screen-shot-2022-09-18-at-1-55-41-pm.png)
