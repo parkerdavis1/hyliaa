@@ -21,4 +21,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- src/posts/hello.md
 - src/posts/here-is-a-new-post.md
