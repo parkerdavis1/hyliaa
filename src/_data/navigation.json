@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "new one",
+      "url": "https://raincrow.netlify.app",
+      "external": ""
+    },
+    {
       "text": "HELLO",
       "url": "/",
       "external": false
@@ -11,7 +16,7 @@
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "THIS IS IT",
       "url": "/contact",
       "external": false
     }
