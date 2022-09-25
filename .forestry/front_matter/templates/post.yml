@@ -24,5 +24,6 @@ pages:
 - src/posts/hello-yes.md
 - src/posts/hello.md
 - src/posts/here-is-a-new-post.md
+- src/posts/how-does-preview-work.md
 - src/posts/this-is-a-markdown-file.md
 - src/posts/this-is-an-html-file.html
