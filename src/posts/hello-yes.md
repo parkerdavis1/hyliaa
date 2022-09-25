@@ -7,9 +7,10 @@ image: "/images/lebi.gif"
 ---
 This is the post big post
 
-## **This** is a blog
+
+Oh yeah yeah yeah
 
 <div style="display: flex; flex-direction: row;">
-  <h2><b>This</b> is a blog</h2>
+  <p><b>This</b> is a blog</p>
   <img src="https://www.allaboutbirds.org/guide/assets/photo/37883281-480px.jpg">
 </div>
